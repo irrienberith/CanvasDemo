@@ -33,6 +33,7 @@ public class MainActivity extends Activity {
         sun.setLayoutParams(new LinearLayout.LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT,
                 ViewGroup.LayoutParams.WRAP_CONTENT));
         root.addView(sun);
+        //
 
     }
 
